@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TheCouncil/static/css/main.776908a3.chunk.css",
+    "main.js": "/TheCouncil/static/js/main.29b98824.chunk.js",
+    "main.js.map": "/TheCouncil/static/js/main.29b98824.chunk.js.map",
+    "runtime-main.js": "/TheCouncil/static/js/runtime-main.04c3fd8a.js",
+    "runtime-main.js.map": "/TheCouncil/static/js/runtime-main.04c3fd8a.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/TheCouncil/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4136a392.chunk.js": "/TheCouncil/static/js/2.4136a392.chunk.js",
+    "static/js/2.4136a392.chunk.js.map": "/TheCouncil/static/js/2.4136a392.chunk.js.map",
+    "index.html": "/TheCouncil/index.html",
+    "precache-manifest.ac70a0a6ddb8a72abaf0046e11acf5a7.js": "/TheCouncil/precache-manifest.ac70a0a6ddb8a72abaf0046e11acf5a7.js",
+    "service-worker.js": "/TheCouncil/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/TheCouncil/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.776908a3.chunk.css.map": "/TheCouncil/static/css/main.776908a3.chunk.css.map",
+    "static/js/2.4136a392.chunk.js.LICENSE.txt": "/TheCouncil/static/js/2.4136a392.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TheCouncil/static/media/MavisBold-owXzz.69baeda7.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04c3fd8a.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4136a392.chunk.js",
+    "static/css/main.776908a3.chunk.css",
+    "static/js/main.29b98824.chunk.js"
+  ]
+}
